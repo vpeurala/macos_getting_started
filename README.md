@@ -1,0 +1,20 @@
+- Install App Store & System updates
+- Install Chrome
+- Install Firefox
+- Install Homebrew
+- Install Alfred
+- Install zsh
+- Copy .zshrc from Dropbox
+- Install vim
+- Copy .vimrc from Dropbox
+- Install iTerm2
+- Install Dropbox
+- brew install curl direnv gcc git jq make netcat node nvm pandoc pipenv pyenv pyenv-virtualenv rbenv ripgrep sloccount telnet tmux tree vim wget xmlstarlet zsh
+- Install sdkman
+- for SDK in $(echo ant gradle groovy java kotlin leiningen maven sbt scala visualvm); do sdk install $SDK; done
+- Install Bettersnaptool
+- Configure Hot corners
+- Install Slack
+- Copy .gitconfig from Dropbox
+- Install Intellij IDEA
+
