@@ -17,4 +17,4 @@
 - Install Slack
 - Copy .gitconfig from Dropbox
 - Install Intellij IDEA
-
+- Install Docker Desktop
